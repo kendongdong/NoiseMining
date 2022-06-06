@@ -4,7 +4,7 @@
 
 ### This is a PyTorch implementation of our paper.
 
-## Overall
+## Overview
 
 ![avatar](https://github.com/kendongdong/NoiseMining/overview.png)
 
