@@ -6,7 +6,7 @@
 
 ## Overview
 
-![avatar](https://github.com/kendongdong/NoiseMining/overview.png)
+![avatar](https://github.com/kendongdong/NoiseMining/blob/main/overview.png)
 
 
 
