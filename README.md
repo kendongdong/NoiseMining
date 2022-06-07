@@ -32,7 +32,7 @@ Download the following datasets and unzip them.
 
 * [Train dataset](https://drive.google.com/drive/folders/1A-4YAbJ7ZTjz3bcsJjs9aq_F37C4wIaE) dataset in google drive.
 * [Test dataset](https://drive.google.com/drive/folders/1oYPAQzl6-1AeVGP8dJ0IRd6jeVt_T4hK) dataset in google drive.
-* The .txt file link for testing and training is [here](https://drive.google.com/drive/folders/1oYPAQzl6-1AeVGP8dJ0IRd6jeVt_T4hK).
+* The .txt file link for testing and training is [here](https://drive.google.com/drive/folders/1A-4YAbJ7ZTjz3bcsJjs9aq_F37C4wIaE).
 ### 3. Train
 1. Set the  parameters  in`demo_train.py`  correctly, including path and  your training settings. Run train file as follow:
 
