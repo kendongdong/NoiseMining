@@ -30,7 +30,7 @@ cd NoiseMining/
 ### 2. Download the datasets
 Download the following datasets and unzip them.
 
-* [Train dataset](https://pan.baidu.com/share/init?surl=hq135pTjbwuda0VMocOsxw) dataset in google drive.
+* [Train dataset](https://drive.google.com/drive/folders/1A-4YAbJ7ZTjz3bcsJjs9aq_F37C4wIaE) dataset in google drive.
 * [Test dataset](https://drive.google.com/drive/folders/1oYPAQzl6-1AeVGP8dJ0IRd6jeVt_T4hK) dataset in google drive.
 * The .txt file link for testing and training is [here](https://drive.google.com/drive/folders/1oYPAQzl6-1AeVGP8dJ0IRd6jeVt_T4hK).
 ### 3. Train
